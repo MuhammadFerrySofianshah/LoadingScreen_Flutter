@@ -1,4 +1,4 @@
-# the_holy_quran
+# belajar_loading_screen
 
 A new Flutter project.
 
